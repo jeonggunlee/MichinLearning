@@ -4,7 +4,8 @@
 어떤 것이 더 효과적일까 ?
    - 이미지의 경우 layer의 노드수가 중요하지 않을까?
    - 근데 왜 최근 모델은 layer에 집중할까?
-
+   - http://playground.tensorflow.org 시뮬레이션 해보면 어떨까?
+   
 *  *  *
 
 질문2) Back-Propagation할때 0이 나오면 어떻게 처리하는가?
