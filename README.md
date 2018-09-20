@@ -1,4 +1,4 @@
-# MichinLearning 스터디 그룹입니다: Machine Learning을 함께 공부합니다!
+## MichinLearning 스터디 그룹입니다: Machine Learning을 함께 공부합니다!
 
 질문1) 딥모델을 구성할때, layer를 증가시키는 거와 layer에서 node / weight를 증가시키는 것에 대한 효과 ?
 어떤 것이 더 효과적일까 ?
