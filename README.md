@@ -16,8 +16,9 @@
 "학과 세미나 참가" : 4차산업혁명과 오픈소스 기반 머신러닝 기술 by 최권택 (강남대학교)
 
 **2차 모임: 9월 13일 목요일**
-잘문1) training set, validation set, 그리고 test set의 
-    - 참조: [#1.1. Training / Test / Validation Set : 오버피팅을 피하는 방법](https://www.youtube.com/watch?v=GtLe9Z2No28&index=7&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
+잘문1) training set, validation set, 그리고 test set의 차이
+
+   - 참조: [#1.1. Training / Test / Validation Set : 오버피팅을 피하는 방법](https://www.youtube.com/watch?v=GtLe9Z2No28&index=7&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 
 *  *  *
 **3차 모임: 9월 17일 월요일**
