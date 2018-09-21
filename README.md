@@ -27,6 +27,10 @@
      - validation test set과의 차이점은 test set은 모델의 '최종 성능' 을 평가하기 위해서 쓰이며, training의 과정에 관여하지 않는 차이가 있습니다. 반면 validation set은 여러 모델 중에서 최종 모델을 선정하기 위한 성능 평가에 관여한다 보시면됩니다. 따라서 validation set은 training과정에 관여하게 됩니다. 즉, validation set은 training 과정에 관여를 하며, training이 된 여러가지 모델 중 가장 좋은 하나의 모델을 고르기 위한 셋입니다. test set은 모든 training 과정이 완료된 후에 최종적으로 모델의 성능을 평가하기 위한 셋입니다. 만약 test set이 모델을 개선하는데 쓰인다면, 그건 test set이 아니라 validation set입니다. 만약 여러 모델을 성능 평가하여 그 중에서 가장 좋은 모델을 선택하고 싶지 않은 경우에는 validation set을 만들지 않아도 됩니다. 하지만 이 경우에는문제가 생길 것입니다. (test accuracy를 예측할 수도 없고, 모델 튜닝을 통해 overfitting을 방지할 수도 없습니다.) [출처](http://3months.tistory.com/118 [Deep Play])
      
      - training 과정에 관여한다는 것이 성능을 평가한다는 것이지, 모델의 수정하는데 사용한다는 말은 아닌것 같네요!
+    
+    - [참조](https://stats.stackexchange.com/questions/19048/what-is-the-difference-between-test-set-and-validation-set):
+    
+     - The training set is used to fit the models; the validation set is used to estimate prediction error for model selection; the test set is used for assessment of the generalization error of the final chosen model. Ideally, the test set should be kept in a “vault,” and be brought out only at the end of the data analysis.
 
 *  *  *
 **3차 모임: 9월 17일 월요일**
