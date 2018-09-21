@@ -61,7 +61,7 @@
 
 *  *  *
 ### 참여자 리스트입니다.
-- 소프트웨어 융합 대학 교수 이정근 [http://www.onchip.net](www.onchip.net)
+- 소프트웨어 융합 대학 교수 이정근 [http://www.onchip.net](http://www.onchip.net)
 - 컴퓨터공학과 대학원 Nguyen Van Toan 박사
 - 컴퓨터공학과 대학원 김용휘 (석사과정)
 - 소프트웨어 융합 대학 학부생: 임병준, 임승현, 이종학, 정재민, 김민정
