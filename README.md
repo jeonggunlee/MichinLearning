@@ -21,7 +21,7 @@
 **3차 모임: 9월 17일 월요일**
 
 잘문1) cross-entropy를 cost 함수로 활용하는 이유 ? 그리고 cross-entropy와 Mean squre error가 같다고(?)하던데 어떻게 같은건가라는 질문에 답을 해줄수 있는 글인것 같네요. 한번 읽어 보면 좋을 것 같네요.
-   - 참고자료 - [http://solarisailab.com/archives/2237](http://solarisailab.com/archives/2237)
+   - [Neural Networks의 학습속도 저하(Slowdown)를 막는 Cross-Entropy Cost Function](http://solarisailab.com/archives/2237)
    - [참고자료2](https://taeoh-kim.github.io/blog/cross-entropy%EC%9D%98-%EC%A0%95%ED%99%95%ED%95%9C-%ED%99%95%EB%A5%A0%EC%A0%81-%EC%9D%98%EB%AF%B8/)
    - [A Short Introduction to Entropy, Cross-Entropy and KL-Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)
 
