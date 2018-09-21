@@ -22,7 +22,7 @@
 
 잘문1) cross-entropy를 cost 함수로 활용하는 이유 ? 그리고 cross-entropy와 Mean squre error가 같다고(?)하던데 어떻게 같은건가라는 질문에 답을 해줄수 있는 글인것 같네요. 한번 읽어 보면 좋을 것 같네요.
    - [Neural Networks의 학습속도 저하(Slowdown)를 막는 Cross-Entropy Cost Function](http://solarisailab.com/archives/2237)
-   - [참고자료2](https://taeoh-kim.github.io/blog/cross-entropy%EC%9D%98-%EC%A0%95%ED%99%95%ED%95%9C-%ED%99%95%EB%A5%A0%EC%A0%81-%EC%9D%98%EB%AF%B8/)
+   - [Cross Entropy의 정확한 확률적 의미](https://taeoh-kim.github.io/blog/cross-entropy%EC%9D%98-%EC%A0%95%ED%99%95%ED%95%9C-%ED%99%95%EB%A5%A0%EC%A0%81-%EC%9D%98%EB%AF%B8/)
    - [A Short Introduction to Entropy, Cross-Entropy and KL-Divergence](https://www.youtube.com/watch?v=ErfnhcEV1O8)
 
 >[재밌는 아이디어] 사실 어디 회사분이 아이들이 아빠 엄마를 인식하는 것과 유사하게 아빠 사진 엄마 사진 등이 캡쳐될때마다 (아빠라는 소리가 들릴때 카메라를 찍어서 찍힌 사진에서 얼굴을 검출하고, 아빠라고 labelling 함) online learning을 해서 사람들을 인식해가는 걸 만들어보고 싶다고 했는데...9장이 이런 부분에 사용될 수 있을 것 같네요. 클라우드도 사용하구~ ㅋㅋ
