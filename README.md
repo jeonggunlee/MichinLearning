@@ -28,7 +28,7 @@
      
      - training 과정에 관여한다는 것이 성능을 평가한다는 것이지, 모델의 수정하는데 사용한다는 말은 아닌것 같네요!
     
-    - [참조](https://stats.stackexchange.com/questions/19048/what-is-the-difference-between-test-set-and-validation-set):
+   - [참조](https://stats.stackexchange.com/questions/19048/what-is-the-difference-between-test-set-and-validation-set):
     
      - The training set is used to fit the models; the validation set is used to estimate prediction error for model selection; the test set is used for assessment of the generalization error of the final chosen model. Ideally, the test set should be kept in a “vault,” and be brought out only at the end of the data analysis.
 
