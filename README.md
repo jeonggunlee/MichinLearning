@@ -48,12 +48,10 @@
    - 근데 왜 최근 모델은 layer에 집중할까?
    - http://playground.tensorflow.org 시뮬레이션 해보면 어떨까?
    
-*  *  *
 
 질문2) Back-Propagation할때 0이 나오면 어떻게 처리하는가?
        if( error == 0 ) error = MIN;
 
-*  *  *
 
 질문3)
 
