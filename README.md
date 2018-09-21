@@ -8,6 +8,7 @@
 1차적으로 모임에서는 김성훈 교수의 모두의 딥러닝을 시청후 모여 다양한 토론을 진행합니다.
 
    - [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)
+   - 추가적인 동영상 참고자료 ! [테리의 딥러닝 토크](https://www.youtube.com/watch?v=D4zqigCb8co&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 
 *  *  *
 **1차 모임: 9월 6일 목요일**: 함께 동영상 시청 - 이후 모임에서는 시청후 토론 방식으로 진행하는 것으로 정함
