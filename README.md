@@ -53,7 +53,10 @@
    - 이미지의 경우 layer의 노드수가 중요하지 않을까?
    - 근데 왜 최근 모델은 layer에 집중할까?
    - http://playground.tensorflow.org 시뮬레이션 해보면 어떨까?
-   
+   - [Stackoverflow](https://stackoverflow.com/questions/35520587/how-to-determine-the-number-of-layers-and-nodes-of-a-neural-network)
+      - As Yoshua Bengio, Head of Montreal Institute for Learning Algorithms remarks:
+      - "Very simple. Just keep adding layers until the test error does not improve anymore."
+      - A method recommended by Geoff Hinton is to add layers until you start to overfit your training set. Then you add dropout or another regularization method.
 
 질문2) Back-Propagation할때 0이 나오면 어떻게 처리하는가?
        if( error == 0 ) error = MIN;
