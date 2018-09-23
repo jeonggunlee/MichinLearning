@@ -63,8 +63,11 @@
 질문2) Back-Propagation할때 0이 나오면 어떻게 처리하는가?
        if( error == 0 ) error = MIN;
 
+*  *  *
+**2018년 9월 27일** : **Convolutional Neural Networks**
 
-질문3)
+질문1) ?
+
 
 *  *  *
 ### 참여자 리스트입니다.
