@@ -66,7 +66,12 @@
 *  *  *
 **2018년 9월 27일** : **Convolutional Neural Networks**
 
-질문1) ?
+질문1) pooling을 쓰는 이유?
+
+   - Overfitting 을 방지!
+   - ???
+
+질문 2) Max pooling을 왜 쓰는 건가?
 
 
 *  *  *
