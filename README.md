@@ -1,4 +1,4 @@
-## MichinLearning 스터디 동아리입니다: Machine Learning을 함께 공부합니다!
+﻿## MichinLearning 스터디 동아리입니다: Machine Learning을 함께 공부합니다!
 
 ```미친 러닝``` 스터디 그룹입니다. 한림대학교 소프트웨어융합대학 학부생 5명과 대학원생 1명 박사후 연구원 1명 및 교수 1인으로 구성된 모임입니다.
 시대의 큰 흐름 중 하나인 인공지능/기계학습 등에 대해서 함께 공부하고 토의합니다.
@@ -69,7 +69,9 @@
 질문1) pooling을 쓰는 이유?
 
    - Overfitting 을 방지!
-   - ???
+   -> 이미지를 계속 필터로 만들다보면 특징의 수가 계속계속 기하 급수적으로 증가하기 때문에 overfitting의 위험이 있습니다.
+       그렇기 때문에 중간에 pooling을 해준다면 개수가 적절하게 유지되어서 overfitting을 최대한 방지한다.
+       참고사이트 : [링크](https://mc.ai/cnn%EC%97%90%EC%84%9C-pooling%EC%9D%B4%EB%9E%80/)
 
 질문 2) Max pooling을 왜 쓰는 건가?
 
