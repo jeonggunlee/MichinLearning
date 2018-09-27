@@ -74,7 +74,14 @@
        참고사이트 : [링크](https://mc.ai/cnn%EC%97%90%EC%84%9C-pooling%EC%9D%B4%EB%9E%80/)
 
 질문 2) Max pooling을 왜 쓰는 건가?
+   -> 일단 pooling이란 계산 복잡도를 줄이기위해서 사용합니다. 그렇다면 평균(average)와 최대값(max value)중에 어울리는 단어는 무엇일까요? 일반적으로 복잡한 것을 간단하게 만들기 위해서 숫자들에게
+구분을 지어야 한다면 당연하게 max와 잘 어울린다고 생각하게 됩니다.  그러나 둘중 어느것이 좋다고 정확히 말할 수는 없습니다. 
+왜냐하면 max pooling은 중요한 부분(가장자리)을 추출하는데 특화 되어있고 average pooling은 부드럽고 유연한 추출을 하는데 특화되어 있기 때문입니다.
+즉, case에 따라 다르다는 것입니다. 그러나 저희는 보통 이미지를 구분하는데 극단적인 특징을 요구합니다. 그렇기 때문에 max pooling을 사용하는 것이 아닐까요??
+결론적으로, 제가 생각하는 것은 max pooling을 사용해 사람들에게 전달(배우는 것,직접 경험하는 것)하는 것이 더 유용하기 때문이라고 생각합니다. 
+왜 사용하는지 보다는 다른 좋은 pooling방식이 있을까??에 대해 생각하는 것이 더 좋다고 생각합니다.
 
+[링크](https://www.quora.com/What-is-the-benefit-of-using-average-pooling-rather-than-max-pooling) <- 여기에 max 와 average의 차이를 보여주는 이미지가 있습니다. 그리고 여기서 참고했습니다.
 
 질문 3) CNN이 왜 좋지 ? [링크](http://aikorea.org/cs231n/convolutional-networks/)
 
