@@ -100,6 +100,10 @@
 
 질문 4) 필터의 사이즈는 어떻게 잡으면 좋을까 ? 크게 작게 ????
 
+**2018년 10월 1일** : **Recurrent Neural Networks**
+
+**질문1) **
+
 *  *  *
 ### 참여자 리스트입니다.
 - 소프트웨어 융합 대학 교수 이정근 [http://www.onchip.net](http://www.onchip.net)
