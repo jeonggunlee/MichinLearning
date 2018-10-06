@@ -108,8 +108,13 @@
 
 **2018년 10월 4일** : 개별 관심/연구 사항 토의 미팅
 
-**질문1) **
-
+    - 임병준: Gradient Descent 방법 개별연구
+    - 이민정: Self Review
+    - 임승현: Review
+    - 정재민: Crawled data analysis
+    - 이종학: Machine Learning Math.
+    
+    
 
 *  *  *
 ### 참여자 리스트입니다.
