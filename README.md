@@ -14,6 +14,8 @@
    
    - 임병준: 실습시 GPU 사용을 통해 빠른 learning을 하고 싶다면 --> [CLICK](https://github.com/jeonggunlee/MichinLearning/blob/master/tensorflow-gpu%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.txt)
    
+   - [데이터 사이언티스트 인터뷰 질문 모음](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)
+   
 *  *  *
 
 **1차 모임: 9월 6일 목요일**: 함께 동영상 시청 - 이후 모임에서는 시청후 토론 방식으로 진행하는 것으로 정함
