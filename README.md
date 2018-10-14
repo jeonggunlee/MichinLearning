@@ -16,6 +16,7 @@
    - 임병준: 실습시 GPU 사용을 통해 빠른 learning을 하고 싶다면 --> [CLICK](https://github.com/jeonggunlee/MichinLearning/blob/master/tensorflow-gpu%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.txt)
    
    - [데이터 사이언티스트 인터뷰 질문 모음](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)
+   - [비트폭 최적화 관련 자료: Quantization](https://heartbeat.fritz.ai/8-bit-quantization-and-tensorflow-lite-speeding-up-mobile-inference-with-low-precision-a882dfcafbbd)
    
 *  *  *
 
@@ -120,6 +121,7 @@
 
     - 주제 : 4차산업혁명을 선도하는 인공지능 최신기술 동향
     - 연사 : 변혜란 교수(연세대학교)
+    
 
 **2018년 10월 15일** : 오픈소스 SW 세미나 
 
