@@ -127,11 +127,25 @@
     - 연사 : 손기성 수석(삼성전자)
 
 
+*  *  *
+
 **[예정] 2018년 11월 7일-8일** : [Nvidia AI Conference](https://www.nvidia.com/ko-kr/ai-conference/) 참가~ 
 
     - NVIDIA AI CONFERENCE SEOUL | 7 - 8 November COEX CONVENTION
 
+**[추천] 2018년 12월 7일 (금요일)**
 
+    - 2018 한국정보과학회 학술심포지움 유비쿼터스 컴퓨팅과 웹 정보기술, 12월 7일(금), 부경대학교
+    - http://db.pknu.ac.kr/ucwit2018/?call_for_papers
+    - 논문접수 마감: 2018년 11월 16일 (금)
+
+**[추천] 2018년 12월 7일 (금요일)**
+
+    - 한국정보과학회 KSC2018 - 2018 한국소프트웨어종합학술대회 (Korea Software Congress 2018)
+    - 2018년 12월 19일(수) ~ 21일(금), 평창 휘닉스파크
+    - 논문접수마감(일반논문/학부생주니어논문경진대회): 10월 22일(월)
+
+ 
 *  *  *
 ### 참여자 리스트입니다.
 - 소프트웨어 융합 대학 교수 이정근 [http://www.onchip.net](http://www.onchip.net)
