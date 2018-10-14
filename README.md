@@ -127,6 +127,11 @@
     - 연사 : 손기성 수석(삼성전자)
 
 
+**[예정] 2018년 11월 7일-8일** : [Nvidia AI Conference](https://www.nvidia.com/ko-kr/ai-conference/) 참가~ 
+
+    - NVIDIA AI CONFERENCE SEOUL | 7 - 8 November COEX CONVENTION
+
+
 *  *  *
 ### 참여자 리스트입니다.
 - 소프트웨어 융합 대학 교수 이정근 [http://www.onchip.net](http://www.onchip.net)
