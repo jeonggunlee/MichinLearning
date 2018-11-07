@@ -128,12 +128,16 @@
     - 주제 : 4차산업시대에 필요한 소프트웨어 인재상
     - 연사 : 손기성 수석(삼성전자)
 
+*  *  *
+
+**2018년 10월 24일** : 대한 전공공학회 논문 작성 !!!!!!!
+
+![paper](https://github.com/jeonggunlee/MichinLearning/blob/master/paper.JPG)
 
 *  *  *
 
-**2018년 10월 31일** : 대한 전공공학회 논문 제출!
+**2018년 10월 31일** : 대한 전공공학회 논문 선정!
 
-![paper](https://github.com/jeonggunlee/MichinLearning/blob/master/paper.png)
 ![accept](https://github.com/jeonggunlee/MichinLearning/blob/master/accept.png)
 
 *  *  *
