@@ -135,6 +135,9 @@
 
 **2018년 10월 24일** : 대한 전공공학회 논문 작성 !!!!!!!
 
+### 딥-뉴럴 네트워크의 파라미터 최적화: MNIST 사례분석
+### 김민정, 임병준, 임승현, 정재민, 이종학, 이정근 (한림대학교 소프트웨어 융합대학)
+
 > In order to deploy a state-of-art modern deep learning algorithm in an embedded system, it is essential to minimize a deep learning model. Particularly, the parameters such as weights and biases consume significant amount of a system memory. Consequently, we need to minimize the memory size of those model parameters to deploy a deep learning algorithm in a resource limited embedded system. In this paper, we investigate an memory size optimization of the deep learning model for the MNIST case, a most comprehensible and widely used deep learning example in order to find an impact of bit-width optimization for the weights and biases with considering their numerical format, a standard IEEE 32 bit floating format.
 
 ![paper](https://github.com/jeonggunlee/MichinLearning/blob/master/paper.JPG)
