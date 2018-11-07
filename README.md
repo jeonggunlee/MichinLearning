@@ -131,6 +131,19 @@
 
 *  *  *
 
+**2018년 10월 31일** : 대한 전공공학회 논문 제출!
+
+![paper](https://github.com/jeonggunlee/MichinLearning/blob/master/paper.png)
+![accept](https://github.com/jeonggunlee/MichinLearning/blob/master/accept.png)
+
+*  *  *
+
+**2018년 11월 1일** : Research Meetup: 앞으로의 논문 발표 계획등에 대한 토의
+
+![meetup](https://github.com/jeonggunlee/MichinLearning/blob/master/meetup.png)
+
+*  *  *
+
 **2018년 11월 7일-8일** : [Nvidia AI Conference](https://www.nvidia.com/ko-kr/ai-conference/) 참가~ 
     - NVIDIA AI CONFERENCE SEOUL | 7 - 8 November COEX CONVENTION
     
