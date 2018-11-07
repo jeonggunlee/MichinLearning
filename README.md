@@ -1,6 +1,7 @@
 ﻿## MichinLearning 스터디 동아리입니다: Machine Learning을 함께 공부합니다!
  
  ![미친 러닝](./crazy.png)
+ **+ 수퍼 대학원생 김용휘!**
  
  ### Open Mind ! Open Source !
 
