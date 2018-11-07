@@ -135,7 +135,11 @@
 
 **2018년 10월 24일** : 대한 전공공학회 논문 작성 !!!!!!!
 
+> In order to deploy a state-of-art modern deep learning algorithm in an embedded system, it is essential to minimize a deep learning model. Particularly, the parameters such as weights and biases consume significant amount of a system memory. Consequently, we need to minimize the memory size of those model parameters to deploy a deep learning algorithm in a resource limited embedded system. In this paper, we investigate an memory size optimization of the deep learning model for the MNIST case, a most comprehensible and widely used deep learning example in order to find an impact of bit-width optimization for the weights and biases with considering their numerical format, a standard IEEE 32 bit floating format.
+
 ![paper](https://github.com/jeonggunlee/MichinLearning/blob/master/paper.JPG)
+
+> 본 연구는 과학기술 정보통신부 및 정보통신기술 진흥 센터의 “소프트웨어 중심대학 지원사업(2018-0-00216)”의 연구결과로 수행되었습니다. 더불어, 딥러닝을 함께 연구하면서 도움을 준 한림대학교 컴퓨터공학과 석사과정 김용휘님께 감사합니다.
 
 *  *  *
 
