@@ -1,4 +1,7 @@
 ﻿## MichinLearning 스터디 동아리입니다: Machine Learning을 함께 공부합니다!
+ 
+ ![미친 러닝](./crazy.png)
+ 
  ### Open Mind ! Open Source !
 
 ```미친 러닝``` 스터디 그룹입니다. 한림대학교 소프트웨어융합대학 학부생 5명과 대학원생 1명 박사후 연구원 1명 및 교수 1인으로 구성된 모임입니다.
