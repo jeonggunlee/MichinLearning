@@ -168,7 +168,6 @@
 ### 둘째 날
 ![AI Conference 참관기](https://github.com/jeonggunlee/MichinLearning/blob/master/ai_conf2.jpg)
 
-https://github.com/jeonggunlee/MichinLearning/blob/master/ai_conf2.jpg
 
 *  *  *
 
