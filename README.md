@@ -161,8 +161,16 @@
 
 **2018년 11월 7일-8일** : [Nvidia AI Conference](https://www.nvidia.com/ko-kr/ai-conference/) 참가~ 
     - NVIDIA AI CONFERENCE SEOUL | 7 - 8 November COEX CONVENTION
-    
+
+### 첫째 날
 ![AI Conference 참관기](https://github.com/jeonggunlee/MichinLearning/blob/master/ai_conf.jpg)
+
+### 둘째 날
+![AI Conference 참관기](https://github.com/jeonggunlee/MichinLearning/blob/master/ai_conf2.jpg)
+
+https://github.com/jeonggunlee/MichinLearning/blob/master/ai_conf2.jpg
+
+*  *  *
 
 **2018년 11월 23일-24일**
     - 대한전자공학회 2018년도 정기총회 및 추계학술대회
