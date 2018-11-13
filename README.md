@@ -1,7 +1,12 @@
 ﻿## MichinLearning 스터디 동아리입니다: Machine Learning을 함께 공부합니다!
+ 
+ ![미친 러닝](./crazy.png)
+# + 수퍼 대학원생 김용휘!
+ 
+ ### Open Mind ! Open Source !
 
 ```미친 러닝``` 스터디 그룹입니다. 한림대학교 소프트웨어융합대학 학부생 5명과 대학원생 1명 박사후 연구원 1명 및 교수 1인으로 구성된 모임입니다.
-시대의 큰 흐름 중 하나인 인공지능/기계학습 등에 대해서 함께 공부하고 토의합니다.
+오픈소스 SW를 활용하여 시대의 큰 흐름 중 하나인 인공지능/기계학습 등에 대해서 함께 공부하고 토의합니다.
 
 *  *  *
 
@@ -10,8 +15,15 @@
    - [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)
    - 추가적인 동영상 참고자료 ! [테리의 딥러닝 토크](https://www.youtube.com/watch?v=D4zqigCb8co&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 
-   - 임승현 추천 [ML Book](https://github.com/jeonggunlee/MichinLearning/blob/master/Machine-Learning.pdf)
+   - 임승현: [ML Book](https://github.com/jeonggunlee/MichinLearning/blob/master/Machine-Learning.pdf)
+   
+   - 임병준: 실습시 GPU 사용을 통해 빠른 learning을 하고 싶다면 --> [CLICK](https://github.com/jeonggunlee/MichinLearning/blob/master/tensorflow-gpu%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.txt)
+   
+   - [데이터 사이언티스트 인터뷰 질문 모음](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)
+   - [비트폭 최적화 관련 자료: Quantization](https://heartbeat.fritz.ai/8-bit-quantization-and-tensorflow-lite-speeding-up-mobile-inference-with-low-precision-a882dfcafbbd)
+   
 *  *  *
+
 **1차 모임: 9월 6일 목요일**: 함께 동영상 시청 - 이후 모임에서는 시청후 토론 방식으로 진행하는 것으로 정함
 
 *  *  *
@@ -96,11 +108,103 @@
 
 질문 4) 필터의 사이즈는 어떻게 잡으면 좋을까 ? 크게 작게 ????
 
+**2018년 10월 1일** : **Recurrent Neural Networks**
+
+특별한 질문은 업속, 향후 모임 진행 방향 토의! : 개별 연구 진행!
+
+**2018년 10월 4일** : 개별 관심/연구 사항 토의 미팅
+
+    - 임병준: Gradient Descent 방법 개별연구
+    - 이민정: Self Review
+    - 임승현: Review
+    - 정재민: Crawled data analysis
+    - 이종학: Machine Learning Math.
+    
+    
+**2018년 10월 8일** : 인공지능 세미나 참석
+
+    - 주제 : 4차산업혁명을 선도하는 인공지능 최신기술 동향
+    - 연사 : 변혜란 교수(연세대학교)
+    
+
+**2018년 10월 15일** : 오픈소스 SW 세미나 
+
+    - 주제 : 4차산업시대에 필요한 소프트웨어 인재상
+    - 연사 : 손기성 수석(삼성전자)
+
+*  *  *
+
+**2018년 10월 24일** : 대한 전공공학회 논문 작성 !!!!!!!
+
+### 딥-뉴럴 네트워크의 파라미터 최적화: MNIST 사례분석
+### 김민정, 임병준, 임승현, 정재민, 이종학, 이정근 (한림대학교 소프트웨어 융합대학)
+
+> In order to deploy a state-of-art modern deep learning algorithm in an embedded system, it is essential to minimize a deep learning model. Particularly, the parameters such as weights and biases consume significant amount of a system memory. Consequently, we need to minimize the memory size of those model parameters to deploy a deep learning algorithm in a resource limited embedded system. In this paper, we investigate an memory size optimization of the deep learning model for the MNIST case, a most comprehensible and widely used deep learning example in order to find an impact of bit-width optimization for the weights and biases with considering their numerical format, a standard IEEE 32 bit floating format.
+
+![paper](https://github.com/jeonggunlee/MichinLearning/blob/master/paper.JPG)
+
+> 본 연구는 과학기술 정보통신부 및 정보통신기술 진흥 센터의 “소프트웨어 중심대학 지원사업(2018-0-00216)”의 연구결과로 수행되었습니다. 더불어, 딥러닝을 함께 연구하면서 도움을 준 한림대학교 컴퓨터공학과 석사과정 김용휘님께 감사합니다.
+
+*  *  *
+
+**2018년 10월 31일** : 대한 전공공학회 논문 선정!
+
+![accept](https://github.com/jeonggunlee/MichinLearning/blob/master/accept.png)
+
+*  *  *
+
+**2018년 11월 1일** : Research Meetup: 앞으로의 논문 발표 계획등에 대한 토의
+
+![meetup](https://github.com/jeonggunlee/MichinLearning/blob/master/meetup.png)
+
+*  *  *
+
+**2018년 11월 7일-8일** : [Nvidia AI Conference](https://www.nvidia.com/ko-kr/ai-conference/) 참가~ 
+    - NVIDIA AI CONFERENCE SEOUL | 7 - 8 November COEX CONVENTION
+
+### 첫째 날
+![AI Conference 참관기](https://github.com/jeonggunlee/MichinLearning/blob/master/ai_conf.jpg)
+
+### 둘째 날
+![AI Conference 참관기](https://github.com/jeonggunlee/MichinLearning/blob/master/ai_conf2.jpg)
+
+
+*  *  *
+
+**2018년 11월 13일: 논문 발표**
+
+    - 임병준: CNN을 이용한 글자별 한글 필적감정 알고리즘
+    - 임승현: 머신러닝을_이용한_표정분류
+
+*  *  *
+
+
+
+**2018년 11월 23일-24일**
+    - 대한전자공학회 2018년도 정기총회 및 추계학술대회
+    - 2018년 11월 23일(금)~24일(토) / 송도 컨벤시아(인천광역시 연수구 송도동)
+    
+
+**[추천] 2018년 12월 7일 (금요일)**
+
+    - 2018 한국정보과학회 학술심포지움 유비쿼터스 컴퓨팅과 웹 정보기술, 12월 7일(금), 부경대학교
+    - http://db.pknu.ac.kr/ucwit2018/?call_for_papers
+    - 논문접수 마감: 2018년 11월 16일 (금)
+
+**[추천] 2018년 12월 19일(수) ~ 21일(금) (금요일)**
+
+    - 한국정보과학회 KSC2018 - 2018 한국소프트웨어종합학술대회 (Korea Software Congress 2018)
+    - 2018년 12월 19일(수) ~ 21일(금), 평창 휘닉스파크
+    - 논문접수마감(일반논문/학부생주니어논문경진대회): 10월 22일(월)
+
+ 
 *  *  *
 ### 참여자 리스트입니다.
 - 소프트웨어 융합 대학 교수 이정근 [http://www.onchip.net](http://www.onchip.net)
 - 컴퓨터공학과 대학원 Nguyen Van Toan 박사
 - 컴퓨터공학과 대학원 김용휘 (석사과정)
-- 소프트웨어 융합 대학 학부생: 임병준, 임승현, 이종학, 정재민, 김민정
+- 소프트웨어 융합 대학 학부생: 임병준 (3학년), 임승현 (3학년), 이종학 (3학년), 정재민 (3학년), 김민정 (4학년)
 
+*  *  *
 
+## Very Special Thanks to 한림 소프트웨어 중심대학 사업단
