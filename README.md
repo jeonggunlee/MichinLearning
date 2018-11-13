@@ -110,7 +110,7 @@
 
 **2018년 10월 1일** : **Recurrent Neural Networks**
 
-특별한 질문은 업속, 향후 모임 진행 방향 토의! : 개별 연구 진행!
+특별한 질문은 없고, 향후 모임 진행 방향 토의! : 개별 연구 진행!
 
 **2018년 10월 4일** : 개별 관심/연구 사항 토의 미팅
 
@@ -171,9 +171,8 @@
 
 *  *  *
 
-**2018년 11월 13일: 논문 발표**
-
-    - 임병준: CNN을 이용한 글자별 한글 필적감정 알고리즘
+**2018년 11월 13일: 논문 발표**</br>
+    - 임병준: CNN을 이용한 글자별 한글 필적감정 알고리즘([논문](https://github.com/BJ-Lim/MichinLearning/blob/master/paper/CNN%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B8%80%EC%9E%90%EB%B3%84%20%ED%95%9C%EA%B8%80%20%ED%95%84%EC%A0%81%EA%B0%90%EC%A0%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf) / [발표자료](https://github.com/BJ-Lim/MichinLearning/blob/master/paper/CNN%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B8%80%EC%9E%90%EB%B3%84%20%ED%95%9C%EA%B8%80%20%ED%95%84%EC%A0%81%EA%B0%90%EC%A0%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(%EC%9E%84%EB%B3%91%EC%A4%80).pptx))</br>
     - 임승현: 머신러닝을_이용한_표정분류
 
 *  *  *
