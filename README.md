@@ -1,4 +1,8 @@
 ﻿## MichinLearning 스터디 동아리입니다: Machine Learning을 함께 공부합니다!
+ 
+ ![미친 러닝](./crazy.png)
+# + 수퍼 대학원생 김용휘!
+ 
  ### Open Mind ! Open Source !
 
 ```미친 러닝``` 스터디 그룹입니다. 한림대학교 소프트웨어융합대학 학부생 5명과 대학원생 1명 박사후 연구원 1명 및 교수 1인으로 구성된 모임입니다.
@@ -106,7 +110,7 @@
 
 **2018년 10월 1일** : **Recurrent Neural Networks**
 
-특별한 질문은 업속, 향후 모임 진행 방향 토의! : 개별 연구 진행!
+특별한 질문은 없고, 향후 모임 진행 방향 토의! : 개별 연구 진행!
 
 **2018년 10월 4일** : 개별 관심/연구 사항 토의 미팅
 
@@ -128,12 +132,66 @@
     - 주제 : 4차산업시대에 필요한 소프트웨어 인재상
     - 연사 : 손기성 수석(삼성전자)
 
+*  *  *
+
+**2018년 10월 24일** : 대한 전공공학회 논문 작성 !!!!!!!
+
+### 딥-뉴럴 네트워크의 파라미터 최적화: MNIST 사례분석
+### 김민정, 임병준, 임승현, 정재민, 이종학, 이정근 (한림대학교 소프트웨어 융합대학)
+
+> In order to deploy a state-of-art modern deep learning algorithm in an embedded system, it is essential to minimize a deep learning model. Particularly, the parameters such as weights and biases consume significant amount of a system memory. Consequently, we need to minimize the memory size of those model parameters to deploy a deep learning algorithm in a resource limited embedded system. In this paper, we investigate an memory size optimization of the deep learning model for the MNIST case, a most comprehensible and widely used deep learning example in order to find an impact of bit-width optimization for the weights and biases with considering their numerical format, a standard IEEE 32 bit floating format.
+
+![paper](https://github.com/jeonggunlee/MichinLearning/blob/master/paper.JPG)
+
+> 본 연구는 과학기술 정보통신부 및 정보통신기술 진흥 센터의 “소프트웨어 중심대학 지원사업(2018-0-00216)”의 연구결과로 수행되었습니다. 더불어, 딥러닝을 함께 연구하면서 도움을 준 한림대학교 컴퓨터공학과 석사과정 김용휘님께 감사합니다.
 
 *  *  *
 
-**[예정] 2018년 11월 7일-8일** : [Nvidia AI Conference](https://www.nvidia.com/ko-kr/ai-conference/) 참가~ 
+**2018년 10월 31일** : 대한 전공공학회 논문 선정!
 
+![accept](https://github.com/jeonggunlee/MichinLearning/blob/master/accept.png)
+
+*  *  *
+
+**2018년 11월 1일** : Research Meetup: 앞으로의 논문 발표 계획등에 대한 토의
+
+![meetup](https://github.com/jeonggunlee/MichinLearning/blob/master/meetup.png)
+
+*  *  *
+
+**2018년 11월 7일-8일** : [Nvidia AI Conference](https://www.nvidia.com/ko-kr/ai-conference/) 참가~ 
     - NVIDIA AI CONFERENCE SEOUL | 7 - 8 November COEX CONVENTION
+
+### 첫째 날
+![AI Conference 참관기](https://github.com/jeonggunlee/MichinLearning/blob/master/ai_conf.jpg)
+
+### 둘째 날
+![AI Conference 참관기](https://github.com/jeonggunlee/MichinLearning/blob/master/ai_conf2.jpg)
+
+
+*  *  *
+
+**2018년 11월 13일: 논문 발표**</br>
+    - 임병준: CNN을 이용한 글자별 한글 필적감정 알고리즘([논문](./paper/CNN%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B8%80%EC%9E%90%EB%B3%84%20%ED%95%9C%EA%B8%80%20%ED%95%84%EC%A0%81%EA%B0%90%EC%A0%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf) / [발표자료](./paper/CNN%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B8%80%EC%9E%90%EB%B3%84%20%ED%95%9C%EA%B8%80%20%ED%95%84%EC%A0%81%EA%B0%90%EC%A0%95%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(%EC%9E%84%EB%B3%91%EC%A4%80).pptx))</br>
+    - 임승현: 머신러닝을_이용한_표정분류
+
+*  *  *
+
+**2018년 11월 15일: 논문 발표**</br>
+    - 김민정: 
+    - 이종학: CNN을 이용한 문자열 CAPTCHA 공격
+
+*  *  *
+
+**2018년 11월 19일: 논문 발표**</br>
+    - 정재민: Parallel Stacked Bidirectional LSTM 모델을 이용한 한국어 영화리뷰 감성 분석
+
+*  *  *
+
+**2018년 11월 23일-24일**
+    - 대한전자공학회 2018년도 정기총회 및 추계학술대회
+    - 2018년 11월 23일(금)~24일(토) / 송도 컨벤시아(인천광역시 연수구 송도동)
+    
 
 **[추천] 2018년 12월 7일 (금요일)**
 
@@ -155,4 +213,6 @@
 - 컴퓨터공학과 대학원 김용휘 (석사과정)
 - 소프트웨어 융합 대학 학부생: 임병준 (3학년), 임승현 (3학년), 이종학 (3학년), 정재민 (3학년), 김민정 (4학년)
 
+*  *  *
 
+## Very Special Thanks to 한림 소프트웨어 중심대학 사업단
