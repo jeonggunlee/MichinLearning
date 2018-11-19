@@ -186,8 +186,8 @@
 **2018년 11월 19일: 논문 발표**</br>
     - 정재민: Parallel Stacked Bidirectional LSTM 모델을 이용한 한국어 영화리뷰 감성 분석
 
--[논문자료](./paper/Parallel%20Stacked%20Bidirectional%20LSTM%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%EC%98%81%ED%99%94%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%84%B1%20%EB%B6%84%EC%84%9D.pdf)   
--[PPT](./paper/Parallel%20Stacked%20Bidirectional%20LSTM%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%EC%98%81%ED%99%94%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%84%B1%20%EB%B6%84%EC%84%9D.pptx)
+- [논문자료](./paper/Parallel%20Stacked%20Bidirectional%20LSTM%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%EC%98%81%ED%99%94%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%84%B1%20%EB%B6%84%EC%84%9D.pdf)   
+- [PPT](./paper/Parallel%20Stacked%20Bidirectional%20LSTM%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%EC%98%81%ED%99%94%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%84%B1%20%EB%B6%84%EC%84%9D.pptx)
 *  *  *
 
 **2018년 11월 23일-24일**
