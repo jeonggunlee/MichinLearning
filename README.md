@@ -1,5 +1,9 @@
 ﻿## MichinLearning 스터디 동아리입니다: Machine Learning을 함께 공부합니다!
  
+ ![미친러닝](./michin.jpg)
+ 딥러닝을 통해서 생성된 합성 이미지 ! 피카소풍의 사진! 
+*  *  *
+ 
  ![미친 러닝](./crazy.png)
 # + 수퍼 대학원생 김용휘!
  
